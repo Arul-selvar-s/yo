@@ -1,6 +1,20 @@
 {
   "posts": [
     {
+      "id": "post-1778323631842",
+      "title": "fdsgdfsgdsfg",
+      "category": "Clinic News",
+      "date": "2026-05-09",
+      "dateDisplay": "May 9, 2026",
+      "day": "09",
+      "month": "May",
+      "excerpt": "dsafsdagfsdagdfg",
+      "image": "https://images.unsplash.com/photo-1606265752439-1f18756aa5fc?w=1200&q=80",
+      "filename": "blog-post-fdsgdfsgdsfg.html",
+      "author": "Dr. Yokesh Kumar R",
+      "draft": false
+    },
+    {
       "id": "post-1778323039213",
       "title": "test",
       "category": "Daily Tips",
