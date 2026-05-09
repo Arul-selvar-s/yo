@@ -1,0 +1,18 @@
+{
+  "posts": [
+    {
+      "id": "post-1778323039213",
+      "title": "test",
+      "category": "Daily Tips",
+      "date": "2026-05-09",
+      "dateDisplay": "May 9, 2026",
+      "day": "09",
+      "month": "May",
+      "excerpt": "testing lines",
+      "image": "https://www.google.com/imgres?q=lion&imgurl=https%3A%2F%2Fimages.squarespace-cdn.com%2Fcontent%2Fv1%2F5b061f0e0dbda31446baccc0%2F1527895159358-L9MJ3G7A5ITWRIB8F0SZ%2Fimage-asset.jpeg%3Fformat%3D2500w&imgrefurl=https%3A%2F%2Fwww.inournaturemag.com%2Fall%2Fafrican-lion-the-next-endangered-animal&docid=TWsjEhaqyvqzKM&tbnid=PSEgt_r2M_nVmM&vet=12ahUKEwjqxpyigKyUAxVuSWwGHZvaNtIQnPAOegQIHRAB..i&w=1920&h=1200&hcb=2&ved=2ahUKEwjqxpyigKyUAxVuSWwGHZvaNtIQnPAOegQIHRAB",
+      "filename": "blog-post-test.html",
+      "author": "Dr. Yokesh Kumar R",
+      "draft": false
+    }
+  ]
+}
